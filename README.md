@@ -1,4 +1,8 @@
-### Hi there 👋
+# Thomas Zentmyer
+I am a self-taught developer from California. I started working with JavaScript, but I am currently looking into learning C and other low-level languages. 
+
+### My Current Focus:
+Prop.js is the current focus of my efforts. It is yet another framework for building games, toys, or tools on the web. Prop.js is created with the intent of being modular and, hopefully, simple to grasp.
 
 <!--
 **ThomasZent/thomaszent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
